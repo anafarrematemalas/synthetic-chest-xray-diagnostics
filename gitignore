@@ -1,0 +1,19 @@
+# secrets
+.env
+*token*
+*.key
+# data and models
+*.png
+*.jpg
+*.jpeg
+*.npy
+*.pt
+*.pth
+*.zip
+synthetic/
+checkpoints/
+data/
+# python / notebooks
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
